@@ -1,0 +1,12 @@
+<htm >
+< body>
+< form>
+Name: < input type="text"><br><br>
+Email: < input type="email"><br><br>
+Feedback:<br>
+‹textarea rows="5" cols="30"></
+textarea><br><br>
+‹ input type="submit"›
+</form>
+</body>
+</html>
